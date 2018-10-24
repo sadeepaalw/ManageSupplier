@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ABC
+    username: root
+    password: razor123
+    
+  jpa:
+    show-sql: true
